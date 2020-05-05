@@ -1,0 +1,2 @@
+C:\Users\adavila11\Documents\GitHub\netcode-UE4\Intermediate\Build\Win64\UE4Editor\Development\netcode_BPs\Definitions.netcode_BPs.h
+C:\Users\adavila11\Documents\GitHub\netcode-UE4\Source\netcode_BPs\netcode_BPs.h

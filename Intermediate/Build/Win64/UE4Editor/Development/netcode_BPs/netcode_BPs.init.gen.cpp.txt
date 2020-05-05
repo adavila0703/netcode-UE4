@@ -1,0 +1,3 @@
+C:\Users\adavila11\Documents\GitHub\netcode-UE4\Intermediate\Build\Win64\UE4Editor\Development\netcode_BPs\Definitions.netcode_BPs.h
+C:\Program Files (x86)\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files (x86)\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

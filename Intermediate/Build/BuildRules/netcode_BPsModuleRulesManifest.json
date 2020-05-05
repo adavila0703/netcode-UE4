@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\adavila11\\Documents\\GitHub\\netcode-UE4\\Source\\netcode_BPs\\netcode_BPs.Build.cs",
+		"C:\\Users\\adavila11\\Documents\\GitHub\\netcode-UE4\\Source\\netcode_BPs.Target.cs",
+		"C:\\Users\\adavila11\\Documents\\GitHub\\netcode-UE4\\Source\\netcode_BPsEditor.Target.cs"
+	],
+	"EngineVersion": "4.24.3"
+}

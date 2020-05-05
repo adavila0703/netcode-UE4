@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "netcode_BPs",
+			"Path": "C:\\Users\\adavila11\\Documents\\GitHub\\netcode-UE4\\netcode_BPs\\Source\\netcode_BPs.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "netcode_BPsEditor",
+			"Path": "C:\\Users\\adavila11\\Documents\\GitHub\\netcode-UE4\\netcode_BPs\\Source\\netcode_BPsEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

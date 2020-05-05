@@ -1,0 +1,80 @@
+/MANIFEST:NO
+/NOLOGO
+/DEBUG
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/FIXED:No
+/NXCOMPAT
+/STACK:12000000
+/DELAY:UNLOAD
+/DLL
+/PDBALTPATH:%_PDB%
+/OPT:NOREF
+/OPT:NOICF
+/INCREMENTAL:NO
+/ignore:4199
+/ignore:4099
+/DELAYLOAD:"d3d12.dll"
+/DELAYLOAD:"DBGHELP.DLL"
+/LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\lib\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\lib\um\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.16299.0\ucrt\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.16299.0\um\x64"
+/NODEFAULTLIB:"LIBCMT"
+/NODEFAULTLIB:"LIBCPMT"
+/NODEFAULTLIB:"LIBCMTD"
+/NODEFAULTLIB:"LIBCPMTD"
+/NODEFAULTLIB:"MSVCRTD"
+/NODEFAULTLIB:"MSVCPRTD"
+/NODEFAULTLIB:"LIBC"
+/NODEFAULTLIB:"LIBCP"
+/NODEFAULTLIB:"LIBCD"
+/NODEFAULTLIB:"LIBCPD"
+/FUNCTIONPADMIN
+"C:\Users\adavila11\Documents\GitHub\netcode-UE4\Intermediate\Build\Win64\netcode_BPsEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\adavila11\Documents\GitHub\netcode-UE4\Intermediate\Build\Win64\UE4Editor\Development\netcode_BPs\netcode_BPs.cpp.obj"
+"C:\Users\adavila11\Documents\GitHub\netcode-UE4\Intermediate\Build\Win64\UE4Editor\Development\netcode_BPs\netcode_BPsCharacter.cpp.obj"
+"C:\Users\adavila11\Documents\GitHub\netcode-UE4\Intermediate\Build\Win64\UE4Editor\Development\netcode_BPs\netcode_BPsGameMode.cpp.obj"
+"C:\Users\adavila11\Documents\GitHub\netcode-UE4\Intermediate\Build\Win64\UE4Editor\Development\netcode_BPs\netcode_BPsHUD.cpp.obj"
+"C:\Users\adavila11\Documents\GitHub\netcode-UE4\Intermediate\Build\Win64\UE4Editor\Development\netcode_BPs\netcode_BPsProjectile.cpp.obj"
+"C:\Users\adavila11\Documents\GitHub\netcode-UE4\Intermediate\Build\Win64\UE4Editor\Development\netcode_BPs\netcode_BPs.init.gen.cpp.obj"
+"C:\Users\adavila11\Documents\GitHub\netcode-UE4\Intermediate\Build\Win64\UE4Editor\Development\netcode_BPs\netcode_BPsCharacter.gen.cpp.obj"
+"C:\Users\adavila11\Documents\GitHub\netcode-UE4\Intermediate\Build\Win64\UE4Editor\Development\netcode_BPs\netcode_BPsGameMode.gen.cpp.obj"
+"C:\Users\adavila11\Documents\GitHub\netcode-UE4\Intermediate\Build\Win64\UE4Editor\Development\netcode_BPs\netcode_BPsHUD.gen.cpp.obj"
+"C:\Users\adavila11\Documents\GitHub\netcode-UE4\Intermediate\Build\Win64\UE4Editor\Development\netcode_BPs\netcode_BPsProjectile.gen.cpp.obj"
+"C:\Users\adavila11\Documents\GitHub\netcode-UE4\Intermediate\Build\Win64\UE4Editor\Development\netcode_BPs\Default.rc2.res"
+"delayimp.lib"
+"wininet.lib"
+"rpcrt4.lib"
+"ws2_32.lib"
+"dbghelp.lib"
+"comctl32.lib"
+"Winmm.lib"
+"kernel32.lib"
+"user32.lib"
+"gdi32.lib"
+"winspool.lib"
+"comdlg32.lib"
+"advapi32.lib"
+"shell32.lib"
+"ole32.lib"
+"oleaut32.lib"
+"uuid.lib"
+"odbc32.lib"
+"odbccp32.lib"
+"netapi32.lib"
+"iphlpapi.lib"
+"setupapi.lib"
+"dwmapi.lib"
+"imm32.lib"
+"C:\Program Files (x86)\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
+"C:\Program Files (x86)\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\UE4Editor-CoreUObject.lib"
+"C:\Program Files (x86)\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\UE4Editor-Engine.lib"
+"C:\Program Files (x86)\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Development\InputCore\UE4Editor-InputCore.lib"
+"C:\Program Files (x86)\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Development\HeadMountedDisplay\UE4Editor-HeadMountedDisplay.lib"
+/OUT:"C:\Users\adavila11\Documents\GitHub\netcode-UE4\Binaries\Win64\UE4Editor-netcode_BPs.dll"
+/IMPLIB:"C:\Users\adavila11\Documents\GitHub\netcode-UE4\Intermediate\Build\Win64\UE4Editor\Development\netcode_BPs\UE4Editor-netcode_BPs.suppressed.lib"
+/PDB:"C:\Users\adavila11\Documents\GitHub\netcode-UE4\Binaries\Win64\UE4Editor-netcode_BPs.pdb"
+/ignore:4078
+/INCLUDE:IMPLEMENT_MODULE_netcode_BPs

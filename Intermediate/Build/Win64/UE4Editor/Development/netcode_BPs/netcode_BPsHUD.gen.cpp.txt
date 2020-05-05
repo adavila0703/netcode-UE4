@@ -1,0 +1,10 @@
+C:\Users\adavila11\Documents\GitHub\netcode-UE4\Intermediate\Build\Win64\UE4Editor\Development\netcode_BPs\Definitions.netcode_BPs.h
+C:\Program Files (x86)\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files (x86)\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\adavila11\Documents\GitHub\netcode-UE4\Source\netcode_BPs/netcode_BPsHUD.h
+C:\Program Files (x86)\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
+C:\Program Files (x86)\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
+C:\Program Files (x86)\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
+C:\Program Files (x86)\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
+C:\Program Files (x86)\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
+C:\Users\adavila11\Documents\GitHub\netcode-UE4\Intermediate\Build\Win64\UE4Editor\Inc\netcode_BPs\netcode_BPsHUD.generated.h
